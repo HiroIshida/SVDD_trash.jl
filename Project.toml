@@ -1,0 +1,4 @@
+name = "SVDD"
+uuid = "5a22c3fe-10ba-11ea-3e33-bf764a2e144b"
+authors = ["HiroIshida <spitfire.docomo@gmail.com>"]
+version = "0.1.0"
